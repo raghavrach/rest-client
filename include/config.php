@@ -1,3 +1,0 @@
-<?php
-$SITE_URL = "{YOUR_DOMAIN_NAME}";
-$API_URL = "{REST_API_DOMAIN_NAME}";
